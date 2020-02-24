@@ -1,6 +1,8 @@
 attrs==19.3.0
 backcall==0.1.0
 bleach==3.1.1
+cheroot==8.3.0
+CherryPy==18.5.0
 Click==7.0
 colorama==0.4.3
 cycler==0.10.0
@@ -13,6 +15,10 @@ ipykernel==5.1.4
 ipython==7.12.0
 ipython-genutils==0.2.0
 itsdangerous==1.1.0
+jaraco.classes==3.1.0
+jaraco.collections==3.0.0
+jaraco.functools==3.0.0
+jaraco.text==3.2.0
 jedi==0.16.0
 Jinja2==2.11.1
 joblib==0.14.0
@@ -26,6 +32,7 @@ kiwisolver==1.1.0
 MarkupSafe==1.1.1
 matplotlib==3.1.2
 mistune==0.8.4
+more-itertools==8.2.0
 mysql-connector-python==8.0.19
 nbconvert==5.6.1
 nbformat==5.0.4
@@ -35,6 +42,7 @@ pandas==1.0.1
 pandocfilters==1.4.2
 parso==0.6.1
 pickleshare==0.7.5
+portend==2.6
 prometheus-client==0.7.1
 prompt-toolkit==3.0.3
 Pygments==2.5.2
@@ -42,6 +50,7 @@ pyparsing==2.4.6
 pyrsistent==0.15.7
 python-dateutil==2.8.1
 pytz==2019.3
+pywin32==227
 pywinpty==0.5.7
 pyzmq==18.1.1
 scikit-learn==0.22.1
@@ -50,6 +59,7 @@ seaborn==0.10.0
 Send2Trash==1.5.0
 six==1.13.0
 sklearn==0.0
+tempora==2.1.0
 terminado==0.8.3
 testpath==0.4.4
 tornado==6.0.3
@@ -57,3 +67,4 @@ traitlets==4.3.3
 wcwidth==0.1.8
 webencodings==0.5.1
 Werkzeug==1.0.0
+zc.lockfile==2.0
